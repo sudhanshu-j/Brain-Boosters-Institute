@@ -6,7 +6,7 @@ Brain Boosters Institute is a simple and clean educational website designed to p
 
  🔴 [Live Demo](https://tinyurl.com/5y24turs)
 
- ##Features
+ ## Features
  
 - **About Page**: Learn more about the mission and values of Brain Boosters Institute.
   
@@ -18,7 +18,7 @@ Brain Boosters Institute is a simple and clean educational website designed to p
 
 - **Responsive Hamburger Menu**: A simple JavaScript-powered hamburger menu for mobile navigation.
 
-##Technologies Used
+## Technologies Used
 
 - **HTML**: Used for the basic structure of the website.
 
@@ -28,7 +28,7 @@ Brain Boosters Institute is a simple and clean educational website designed to p
 
 - **CSS Grid**: The Courses section is designed using the CSS Grid layout to ensure proper alignment and responsiveness.
 
-##Setup Instructions
+## Setup Instructions
 
 - Clone or download the repository.
   
@@ -36,7 +36,7 @@ Brain Boosters Institute is a simple and clean educational website designed to p
 
 - (Optional) Customize the HTML, CSS, or JavaScript files as needed.
 
-##File Structure
+## File Structure
 
 - / (root)
 - │── style.css           # Contains all CSS Styling
@@ -49,7 +49,7 @@ Brain Boosters Institute is a simple and clean educational website designed to p
 - │── contact.html        # Contact page
 
 
-
+## ScreenShots
 
 
 
