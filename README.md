@@ -52,6 +52,8 @@ Brain Boosters Institute is a simple and clean educational website designed to p
 ## ScreenShots
 
 
+![pre-2](https://github.com/user-attachments/assets/ba58c9f7-baea-4b55-a2a8-117f8155b522)
+![pre-1](https://github.com/user-attachments/assets/c06dcc68-1b40-422f-b1e5-36e4a3de5525)
 
 
 
