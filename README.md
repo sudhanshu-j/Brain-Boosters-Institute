@@ -4,7 +4,7 @@ Brain Boosters Institute is a simple and clean educational website designed to p
 
 ## Live Preview
 
- 🔴 [Live Demo](https://tinyurl.com/5y24turs)
+ 🔴 [Live Demo](https://tinyurl.com/5ff5hphs)
 
  ## Features
  
